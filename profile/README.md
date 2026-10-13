@@ -32,29 +32,21 @@ Check the individual repository for its contribution guidelines and development 
 ## 👩‍💻 Useful resources
 
 1. 🌐 **Website:** [attenomy.com](https://attenomy.com)
-
 2. 📦 **Projects:** Explore the repositories in this organization to see what we're building.
-
 3. 📖 **Documentation:** Documentation and project-specific resources can be found in the relevant repositories.
 
 ## 🛠️ Our approach
 
 We value:
-
 * **Simplicity** — Prefer clear solutions over unnecessary complexity.
-
 * **Quality** — Build software that is reliable, maintainable, and pleasant to use.
-
 * **Curiosity** — Experiment, learn, question assumptions, and keep improving.
-
 * **Openness** — Share knowledge and collaborate wherever possible.
-
 * **Impact** — Build things that are genuinely useful.
 
 ## 🍿 Fun facts
 
 * We probably drink too much coffee while turning ideas into pull requests. ☕️
-
 * We also believe that a good README is almost as important as good code. 😉
 
 ## 🧙 Build something mighty
